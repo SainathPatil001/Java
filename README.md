@@ -1,2 +1,2 @@
 # Java
-All java programs
+All java programs are in a compiled format
